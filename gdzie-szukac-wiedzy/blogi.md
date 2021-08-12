@@ -60,6 +60,8 @@ Lista blogów prowadzonych przez polaków, lub zawierających przynajmniej czę�
   * Dominik Stolarski, Paweł Kandybowicz, Maciek Florys
 * [https://www.dlatesterow.pl/](https://www.dlatesterow.pl/)
   * Rafał Krząpa
+* [https://www.cyfrowytrener.pl/](https://www.cyfrowytrener.pl/)
+  * Kris Pacholski
 
 ## Dawno nieaktualizowane lub zamknięte:
 
